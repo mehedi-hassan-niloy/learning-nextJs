@@ -8,7 +8,7 @@ const LoginTeacher = () =>{
     return(
       
         <div>
-            <h1>Login for Teacher</h1>
+            <h1 className='heading'>Login for Teacher</h1>
             <br/>
           <br/>
           <button onClick={()=>navigate('/login/loginstudent')}>Go to login Page</button>
