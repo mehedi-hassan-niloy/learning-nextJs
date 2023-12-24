@@ -16,6 +16,12 @@ const Login = () =>{
           <br/>
           <br/>
           <button onClick={()=>navigate('/')}>Go to Home Page</button>
+            <br/>
+          <br/>
+          <button onClick={()=>navigate('/login/loginstudent')}>Go to Student Login Page</button>
+          <br/>
+          <br/>
+          <button onClick={()=>navigate('/login/loginteacher')}>Go to Teacher Login Page</button>
         </div>
     )
 }

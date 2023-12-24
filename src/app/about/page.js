@@ -13,6 +13,12 @@ const About = () =>{
             <Link href='/'>Home Page </Link>
             <br/>
           <br/>
+            <Link href='/about/aboutstudent'>About Student </Link>
+            <br/>
+          <br/>
+            <Link href='/about/aboutteacher'>About Teacher </Link>
+            <br/>
+          <br/>
           <button onClick={()=>navigate('/login')}>Go to Login Page</button>
           <br/>
           <br/>
