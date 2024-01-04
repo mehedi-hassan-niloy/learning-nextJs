@@ -32,7 +32,6 @@ export default function Product(){
                             <p>{item.category}</p>
                         </div>
                     </div>
-                     
                 ))
             }
         </div>
