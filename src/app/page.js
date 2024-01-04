@@ -18,6 +18,10 @@ export default function Home() {
           <br/>
           <br/>
           <Link href='/about'>About Page </Link>
+          <br></br>
+          <br></br>
+          <br></br>
+          <Link href='/product'>Product Page </Link>
            <h1>Event, function and state {name}</h1>
            <button onClick={()=>apple()}>Click me</button>
 
